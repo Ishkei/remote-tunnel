@@ -1,0 +1,9 @@
+version: "2"
+authtoken: 31LhODLGY02Pqat9K08bqbfmcxR_5SWXGUSx7AgYyRhejin7p
+tunnels:
+  vscode:
+    proto: http
+    addr: 8080
+  ssh:
+    proto: tcp
+    addr: 22
